@@ -1,0 +1,8 @@
+package aulaTerça;
+
+public class Ex5 {
+	public static void main (String[] args) {
+		System.out.printf("%s\n%s%d\n%s%f\n", "Nome: Maria", "Idade: ", 19,
+				"Altura: ", 1.69);
+	}
+}
